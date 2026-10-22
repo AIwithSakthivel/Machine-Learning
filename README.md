@@ -18,7 +18,7 @@ The goal is to understand *why* each formula works and *how* it can break in flo
 
 | # | Topic | What you'll learn | Open |
 |---|-------|-------------------|------|
-| 1 | [Sigmoid and logit functions](Sigmoid_and_logit_functions.ipynb) | Stable sigmoid, overflow and `log1p`, symmetry σ(−x) = 1 − σ(x), logit as the inverse of sigmoid, odds and log-odds | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIwithSakthivel/Machine-Learning/blob/main/Sigmoid_and_logit_functions.ipynb) |
+| 1 | [Sigmoid and logit functions](Sigmoid_and_logit_functions.ipynb) | Stable sigmoid, overflow and `log1p`, symmetry σ(−x) = 1 − σ(x), logit as the inverse of sigmoid, odds and log-odds | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIwithSakthivel/Machine-Learning/blob/Develop/Sigmoid_and_logit_functions.ipynb) |
 
 *More topics will be added over time.*
 
